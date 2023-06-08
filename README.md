@@ -27,8 +27,8 @@
 
 [Énoncé](https://adventofcode.com/2015/day/4) du problème
 
-* [Solution](./2015/Jour\ 2/solution420151.py) Partie 1
-* [Solution](./2015/Jour\ 2/solution420152.py) Partie 2
+* [Solution](2015/Jour\ 2/solution420151.py) Partie 1
+* [Solution](2015/Jour\ 2/solution420152.py) Partie 2
 
 ### Jour 5
 
