@@ -5,6 +5,9 @@ def main():
     file=open('input','r')
     data=(file.readlines()[0]).split(',')
 
+    data[1]=12
+    data[2]=2
+
     for i in range (0,len(data),4):
         if data[i]=='1':
             data[int(data[i+3])]=int(data[int(data[i+1])])+int(data[int(data[i+2])])
