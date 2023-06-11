@@ -40,3 +40,31 @@
 ## 2017
 
 ### Jour 1
+
+[Énoncé](https://adventofcode.com/2017/day/1) du problème
+
+* [Solution](https://github.com/cos-imo/AdventOfCode/blob/main/2017/Jour%201/solution120171.py) de la première partie
+* [Solution](https://github.com/cos-imo/AdventOfCode/blob/main/2017/Jour%201/solution120172.py) de la seconde partie
+
+### Jour 2
+
+[Énoncé](https://adventofcode.com/2017/day/2) du problème
+
+* [Solution](https://github.com/cos-imo/AdventOfCode/blob/main/2017/Jour%202/solution220171.py) de la première partie
+* [Solution](https://github.com/cos-imo/AdventOfCode/blob/main/2017/Jour%202/solution220172.py) de la seconde partie
+
+## 2019
+
+### Jour 1
+
+[Énoncé](https://adventofcode.com/2019/day/1) du problème
+
+* [Solution](https://github.com/cos-imo/AdventOfCode/blob/main/2019/Jour%201/solution120191.py) de la première partie
+* Solution de la seconde partie
+
+### Jour 2
+
+[Énoncé](https://adventofcode.com/2019/day/2) du problème
+
+* [Solution](https://github.com/cos-imo/AdventOfCode/blob/main/2019/Jour%202/solution220191.py) de la première partie
+* [Solution](https://github.com/cos-imo/AdventOfCode/blob/main/2019/Jour%202/solution220192.py) de la seconde partie
