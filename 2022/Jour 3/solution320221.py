@@ -1,18 +1,18 @@
 import sys, copy
 
-file=open('subject_input','r')
+file=open('input','r')
 data=[element.replace("\n","") for element in file.readlines()]
 
 def main():
 
     res=0
-    acc=[]
 
     for element in data:
-        for letter in element[:(int((len(element)/2)))]:
-            if letter in element[(int((len(element)/2))):] and letter not in acc:
-                res+=ord(letter)-96*(letter==letter.lower())-38*(letter==letter.upper())
-                acc.append(letter)
+        overlap=(set(element[:len(element)//2]).intersection(set(element[len(element)//2:]))).pop()
+        if overlap.isupper():
+            res += ord(overlap) - ord('A') + 27
+        else:
+            res += ord(overlap) - ord('a') + 1
 
     sys.stdout.write("Sum of the priorities: {}".format(res))
 
