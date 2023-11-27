@@ -1,4 +1,7 @@
 # AdventOfCode
+![Static Badge](https://img.shields.io/badge/Langage-Python-yellow)
+## Présentation
+L'[Advent of Code](https://adventofcode.com) est un évènement proposant tout les ans deux challenges de programmation par jour du 1er au 25 décembre. Désirant m'améliorer en programmation, j'ai donc décidé d'y particper; cette page recense mes codes pour les différentes années.
 
 ## 2015
 
